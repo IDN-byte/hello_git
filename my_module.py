@@ -6,3 +6,4 @@ def mul(a,c):
 	return a*c
 def div(a,b):
 	return a/b #주석
+
