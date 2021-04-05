@@ -41,3 +41,10 @@ det add(a,b):
 하는건가|38점|47점|100점|
 
 **치킨** 먹다가 ~~두드러기~~ 났어요. ㅠㅠ
+
+###Open CV  pip 설치
+
+환경변수 설정
+
+command 에서 
+**pip install opencv-python** 입력하면 설치 된다
